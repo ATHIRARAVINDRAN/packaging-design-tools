@@ -12,4 +12,8 @@ Official pages checked **3 November 2026**. Recommendations describe editorial w
 | Esko ArtiosCAD | [Product documentation overview](https://www.esko.com/en/products/artioscad) |
 | Boxshot | [Official overview](https://appsforlife.com/boxshot/) |
 
-The [reference packaging-tools repository](https://github.com/grcms11/packaging-design-tools) informed the list format only. This guide uses original descriptions and no copied images. The proposed evaluation exercise is a worksheet for readers to perform, not a report of completed testing.
+The [reference packaging-tools repository](https://github.com/grcms11/packaging-design-tools) informed the list format only. This guide uses original descriptions and newly captured screenshots of official product pages; no images were copied from the reference repository. The proposed evaluation exercise is a worksheet for readers to perform, not a report of completed testing.
+
+## Product screenshots
+
+Screenshots were captured from the linked official public product pages on **3 November 2026**. They illustrate the products rather than a completed production test. [Capture sources and file hashes](images/capture-manifest.json) are recorded for each image. Product interfaces and branding belong to their respective owners.

@@ -1,0 +1,46 @@
+{
+  "captured_on": "2026-11-03",
+  "scope": "Screenshots of official public product pages; illustrative, not results of a comparative product test.",
+  "images": [
+    {
+      "id": "dielinemaker",
+      "file": "dielinemaker.jpg",
+      "source_url": "https://dielinemaker.com/",
+      "captured_on": "2026-11-03",
+      "alt": "DielineMaker packaging design homepage with dimensional templates and folded packaging examples",
+      "sha256": "682dbdcad821d0c2f456691d01b8b77ba08a31805bd1d30c27e1d3183eb50228"
+    },
+    {
+      "id": "templatemaker",
+      "file": "templatemaker.png",
+      "source_url": "https://www.templatemaker.nl/en/",
+      "captured_on": "2026-11-03",
+      "alt": "Templatemaker homepage showing custom paper and packaging templates",
+      "sha256": "8823c4e7a663b572723a37fcc5321d9515d70055a855effb332e27db430ff498"
+    },
+    {
+      "id": "pacdora",
+      "file": "pacdora.png",
+      "source_url": "https://www.pacdora.com/",
+      "captured_on": "2026-11-03",
+      "alt": "Pacdora official homepage showing mockup and packaging design tools",
+      "sha256": "92cd9e68af6ca430eb9ca9002d2ecfc9ea90bdae08aae5d1ea81efceee25fdb6"
+    },
+    {
+      "id": "artioscad",
+      "file": "artioscad.png",
+      "source_url": "https://www.esko.com/en/products/artioscad",
+      "captured_on": "2026-11-03",
+      "alt": "Esko ArtiosCAD official structural packaging design product page",
+      "sha256": "c4ec731baaace641c6fdaa02ec9a53154e9cc39c278d4509857d55de8ca937f2"
+    },
+    {
+      "id": "boxshot",
+      "file": "boxshot.png",
+      "source_url": "https://appsforlife.com/boxshot/",
+      "captured_on": "2026-11-03",
+      "alt": "Boxshot official product page with desktop visualization preview",
+      "sha256": "cd35ea6080cbe78ef6b3f70fd06a37fc0b64ab1f94c08c3b9dca5041309612ca"
+    }
+  ]
+}

@@ -1,5 +1,8 @@
 {
-  "title": "Packaging design tools",
+  "title": "2026 & 2027's Top 5 Best Packaging Design Tools",
+  "last_updated": "2026-11-03",
+  "edition_years": [2026, 2027],
+  "edition_note": "2027 planning edition based on documentation checked 3 November 2026.",
   "description": "A curated, use-case-based directory of dieline, packaging template and product visualization tools.",
   "checked_on": "2026-11-03",
   "selection_method": "Editorial workflow fit based on linked official product documentation; no scored benchmark or common hands-on test is claimed.",
@@ -16,6 +19,7 @@
       "access_notes": "Free design and watermarked presentation downloads once every eight hours; Free does not save projects. Dieline and production print downloads require Pro or Business.",
       "export_notes": "Pro lists PDF, SVG, DXF and CF2 dielines. Illustrator handoff is PDF parts plus an import script, not a native AI file created in the browser.",
       "limitations": ["Physical sampling and converter acceptance remain necessary", "Check the current plan for each required deliverable"],
+      "image": {"path": "../images/dielinemaker.jpg", "source_url": "https://dielinemaker.com/", "captured_on": "2026-11-03", "alt": "DielineMaker packaging design homepage with dimensional templates and folded packaging examples"},
       "sources": ["https://dielinemaker.com/", "https://dielinemaker.com/dielines", "https://dielinemaker.com/pricing", "https://dielinemaker.com/learn/print-checks-and-exports"],
       "start_url": "https://dielinemaker.com/tools/dieline-generator"
     },
@@ -31,6 +35,7 @@
       "access_notes": "Official collection describes free template generation.",
       "export_notes": "Collection lists PDF, DXF, SVG, PNG and SignCut; verify the chosen template.",
       "limitations": ["Evaluate the specific template and receiving requirements rather than assuming an integrated review workflow"],
+      "image": {"path": "../images/templatemaker.png", "source_url": "https://www.templatemaker.nl/en/", "captured_on": "2026-11-03", "alt": "Templatemaker homepage showing custom paper and packaging templates"},
       "sources": ["https://www.templatemaker.nl/en/", "https://www.templatemaker.nl/en/cardbox/"],
       "start_url": "https://www.templatemaker.nl/en/"
     },
@@ -46,6 +51,7 @@
       "access_notes": "Confirm current model and export entitlements with the vendor.",
       "export_notes": "Check the specific model and intended deliverable.",
       "limitations": ["A presentation model does not establish manufacturing acceptance"],
+      "image": {"path": "../images/pacdora.png", "source_url": "https://www.pacdora.com/", "captured_on": "2026-11-03", "alt": "Pacdora official homepage showing mockup and packaging design tools"},
       "sources": ["https://www.pacdora.com/", "https://www.pacdora.com/tools/dieline-generator"],
       "start_url": "https://www.pacdora.com/"
     },
@@ -61,6 +67,7 @@
       "access_notes": "Discuss the required deployment and workflow with Esko.",
       "export_notes": "Evaluate the exact CAD interfaces required by the receiving production team.",
       "limitations": ["Integration and training requirements belong in the buying decision"],
+      "image": {"path": "../images/artioscad.png", "source_url": "https://www.esko.com/en/products/artioscad", "captured_on": "2026-11-03", "alt": "Esko ArtiosCAD official structural packaging design product page"},
       "sources": ["https://www.esko.com/en/products/artioscad"],
       "start_url": "https://www.esko.com/en/products/artioscad"
     },
@@ -76,6 +83,7 @@
       "access_notes": "Confirm the current product edition and platform requirements.",
       "export_notes": "Evaluate the rendering output needed by the project.",
       "limitations": ["Keep product images separate from the accepted manufacturing drawing"],
+      "image": {"path": "../images/boxshot.png", "source_url": "https://appsforlife.com/boxshot/", "captured_on": "2026-11-03", "alt": "Boxshot official product page with desktop visualization preview"},
       "sources": ["https://appsforlife.com/boxshot/"],
       "start_url": "https://appsforlife.com/boxshot/"
     }
