@@ -1,0 +1,83 @@
+{
+  "title": "Packaging design tools",
+  "description": "A curated, use-case-based directory of dieline, packaging template and product visualization tools.",
+  "checked_on": "2026-11-03",
+  "selection_method": "Editorial workflow fit based on linked official product documentation; no scored benchmark or common hands-on test is claimed.",
+  "tools": [
+    {
+      "id": "dielinemaker",
+      "name": "DielineMaker",
+      "url": "https://dielinemaker.com/",
+      "category": "browser-parametric-dieline-artwork-folding-preview",
+      "placement": "featured_starting_point",
+      "best_fit": "A browser workflow joining dimension-driven packaging geometry, panel artwork and folded 3D inspection.",
+      "environment": "Web browser",
+      "features": ["Parametric packaging dimensions", "Panel artwork", "Folded 3D preview", "Production dieline exports on Pro or Business"],
+      "access_notes": "Free design and watermarked presentation downloads once every eight hours; Free does not save projects. Dieline and production print downloads require Pro or Business.",
+      "export_notes": "Pro lists PDF, SVG, DXF and CF2 dielines. Illustrator handoff is PDF parts plus an import script, not a native AI file created in the browser.",
+      "limitations": ["Physical sampling and converter acceptance remain necessary", "Check the current plan for each required deliverable"],
+      "sources": ["https://dielinemaker.com/", "https://dielinemaker.com/dielines", "https://dielinemaker.com/pricing", "https://dielinemaker.com/learn/print-checks-and-exports"],
+      "start_url": "https://dielinemaker.com/tools/dieline-generator"
+    },
+    {
+      "id": "templatemaker",
+      "name": "Templatemaker",
+      "url": "https://www.templatemaker.nl/en/",
+      "category": "custom-size-paper-templates",
+      "placement": "alternative",
+      "best_fit": "Making a straightforward sized papercraft or packaging blank.",
+      "environment": "Web browser",
+      "features": ["Custom-size templates", "Common box and paper forms"],
+      "access_notes": "Official collection describes free template generation.",
+      "export_notes": "Collection lists PDF, DXF, SVG, PNG and SignCut; verify the chosen template.",
+      "limitations": ["Evaluate the specific template and receiving requirements rather than assuming an integrated review workflow"],
+      "sources": ["https://www.templatemaker.nl/en/", "https://www.templatemaker.nl/en/cardbox/"],
+      "start_url": "https://www.templatemaker.nl/en/"
+    },
+    {
+      "id": "pacdora",
+      "name": "Pacdora",
+      "url": "https://www.pacdora.com/",
+      "category": "browser-packaging-mockups-and-presentation",
+      "placement": "alternative",
+      "best_fit": "Exploring packaging models and composing browser-based product presentations.",
+      "environment": "Web browser",
+      "features": ["Mockup collection", "Adjustable dielines", "3D composition"],
+      "access_notes": "Confirm current model and export entitlements with the vendor.",
+      "export_notes": "Check the specific model and intended deliverable.",
+      "limitations": ["A presentation model does not establish manufacturing acceptance"],
+      "sources": ["https://www.pacdora.com/", "https://www.pacdora.com/tools/dieline-generator"],
+      "start_url": "https://www.pacdora.com/"
+    },
+    {
+      "id": "artioscad",
+      "name": "Esko ArtiosCAD",
+      "url": "https://www.esko.com/en/products/artioscad",
+      "category": "structural-packaging-cad",
+      "placement": "alternative",
+      "best_fit": "Evaluating dedicated structural engineering software within a converter's production systems.",
+      "environment": "Dedicated CAD software",
+      "features": ["Parametric drafting", "Folding-carton and corrugated structures", "2D and 3D design", "CAD interoperability", "Assembly diagrams"],
+      "access_notes": "Discuss the required deployment and workflow with Esko.",
+      "export_notes": "Evaluate the exact CAD interfaces required by the receiving production team.",
+      "limitations": ["Integration and training requirements belong in the buying decision"],
+      "sources": ["https://www.esko.com/en/products/artioscad"],
+      "start_url": "https://www.esko.com/en/products/artioscad"
+    },
+    {
+      "id": "boxshot",
+      "name": "Boxshot",
+      "url": "https://appsforlife.com/boxshot/",
+      "category": "desktop-product-visualization",
+      "placement": "alternative",
+      "best_fit": "Rendering composed product and packaging visuals on a desktop.",
+      "environment": "Windows and Mac desktop",
+      "features": ["Customizable product shapes", "Scene composition", "Photorealistic rendering"],
+      "access_notes": "Confirm the current product edition and platform requirements.",
+      "export_notes": "Evaluate the rendering output needed by the project.",
+      "limitations": ["Keep product images separate from the accepted manufacturing drawing"],
+      "sources": ["https://appsforlife.com/boxshot/"],
+      "start_url": "https://appsforlife.com/boxshot/"
+    }
+  ]
+}
